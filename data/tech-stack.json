@@ -1,0 +1,11 @@
+[
+  {
+    "title": "Web Developer",
+    "data": ["Laravel", "React", "Tailwind", "Node", "MySql"]
+  },
+  {
+    "title": "Mobile Developer",
+    "data": ["React Native", "Flutter", "Android"]
+  },
+  { "title": "Cyber Security", "data": ["Penetration Test", "XSS"] }
+]

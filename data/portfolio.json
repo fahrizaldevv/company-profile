@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "title": "Bellbox Cathering",
+    "description": "Solusi e-commerce untuk layanan katering dengan fitur lengkap",
+    "image": "../images/porto1.png",
+    "category": "web-app",
+    "tech": ["React JS", "Laravel", "MongoDB", "Stripe"],
+    "link": "https://bellbox.my.id/",
+    "details": "Platform e-commerce untuk layanan katering dengan manajemen pesanan dan pembayaran online"
+  },
+  {
+    "id": "2",
+    "title": "Aplikasi SIABPENA",
+    "description": "Aplikasi untuk melakukan absensi, pelaporan dan informasi untuk karyawan lepas PUPR",
+    "image": "../images/porto2.png",
+    "category": "mobile-app",
+    "tech": ["React Native", "Firebase", "Redux"],
+    "link": "https://play.google.com/store/apps/details?id=com.siabpenaapps",
+    "details": "Aplikasi mobile untuk absensi dan pelaporan karyawan lepas PUPR"
+  },
+  {
+    "id": "3",
+    "title": "SIBAKO PAMEKASAN",
+    "description": "Website pendataan dan menampilkan data statistik harga bahan pokok di pamekasan",
+    "image": "../images/porto3.png",
+    "category": "web-app",
+    "tech": ["React JS", "Laravel", "Vercel"],
+    "link": "https://pamekasankab.go.id/",
+    "details": "Website pendataan dan menampilkan data statistik harga bahan pokok di pamekasan"
+  },
+  {
+    "id": "4",
+    "title": "EPATOBIN DISPERINDAG",
+    "description": "Website pendataan, monitoring dan pembinaan industri untuk kota pamekasan",
+    "image": "../images/porto4.png",
+    "category": "web-app",
+    "tech": ["React JS", "Laravel", "PostgreSQL", "GraphQL"],
+    "link": "https://pamekasankab.go.id/",
+    "details": "Website pendataan, monitoring dan pembinaan industri untuk kota pamekasan"
+  },
+  {
+    "id": "5",
+    "title": "SAKU PENA",
+    "description": "Aplikasi PUPR untuk memperoleh informasi titik sumur sesuai area pegawai",
+    "image": "../images/porto5.png",
+    "category": "mobile-app",
+    "tech": ["React Native", "Firebase", "Google Maps API"],
+    "link": "https://play.google.com/store/apps/details?id=com.titiksumurjateng",
+    "details": "Aplikasi booking perjalanan lintas platform"
+  },
+  {
+    "id": "6",
+    "title": "Schartz Dental",
+    "description": "Company profile untuk klinik gigi dengan desain modern dan interaktif",
+    "image": "../images/porto6.png",
+    "category": "company-profile",
+    "tech": ["React JS", "Tailwind", "Tailwind"],
+    "link": "https://github.com/fahrizaldevv/dental-clinic",
+    "details": "Company profile untuk klinik gigi dengan desain modern dan interaktif"
+  }
+]
