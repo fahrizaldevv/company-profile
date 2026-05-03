@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "name": "Pengembangan Web",
+    "description": "Aplikasi web modern dan responsif",
+    "icon": "🌐",
+    "details": "Kami membangun aplikasi web yang cepat dan skalabel menggunakan teknologi terbaru dan praktik terbaik dalam pengembangan modern."
+  },
+  {
+    "id": "2",
+    "name": "Aplikasi Mobile",
+    "description": "Solusi mobile native dan cross-platform",
+    "icon": "📱",
+    "details": "Ciptakan pengalaman mobile yang menarik untuk iOS dan Android dengan performa native dan interaksi pengguna yang mulus."
+  },
+  {
+    "id": "3",
+    "name": "Desain UI/UX",
+    "description": "Pengalaman desain yang indah dan intuitif",
+    "icon": "🎨",
+    "details": "Kami membuat antarmuka yang menakjubkan yang cantik dan fungsional, berfokus pada pengalaman pengguna dan keterlibatan."
+  },
+  {
+    "id": "4",
+    "name": "Pengembangan Backend",
+    "description": "Arsitektur server-side yang kuat",
+    "icon": "⚙️",
+    "details": "Bangun sistem backend yang skalabel dengan API aman, database, dan infrastruktur cloud untuk aplikasi Anda."
+  },
+  {
+    "id": "5",
+    "name": "Solusi Cloud",
+    "description": "Infrastruktur cloud yang dapat diskalakan",
+    "icon": "☁️",
+    "details": "Terapkan dan kelola aplikasi di platform cloud dengan ketersediaan tinggi, keamanan, dan performa optimal."
+  },
+  {
+    "id": "6",
+    "name": "Konsultasi",
+    "description": "Strategi teknologi dan bimbingan",
+    "icon": "💡",
+    "details": "Konsultasi ahli tentang pemilihan teknologi, desain arsitektur, dan strategi transformasi digital."
+  }
+]

@@ -1,0 +1,99 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-white text-gray-900 font-poppins;
+  }
+
+  h1 {
+    @apply text-h1 font-bold font-heading;
+  }
+
+  h2 {
+    @apply text-h2 font-bold font-heading;
+  }
+
+  h3 {
+    @apply text-h3 font-semibold font-heading;
+  }
+
+  button {
+    @apply transition-all duration-300 ease-in-out;
+  }
+}
+
+@layer components {
+  .section-container {
+    @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+  }
+
+  .section-padding {
+    @apply py-16 md:py-24 lg:py-32;
+  }
+
+  .btn-primary {
+    @apply px-6 py-3 bg-accent-blue text-white rounded-lg hover:bg-blue-600 font-semibold;
+  }
+
+  .btn-secondary {
+    @apply px-6 py-3 border-2 border-accent-blue text-accent-blue rounded-lg hover:bg-accent-blue hover:text-white font-semibold;
+  }
+
+  .card-shadow {
+    @apply shadow-lg hover:shadow-2xl transition-shadow duration-300;
+  }
+
+  .gradient-text {
+    @apply text-accent-blue bg-gradient-to-r from-blue-400 to-blue-600 bg-clip-text text-transparent;
+  }
+}
+
+/* Custom animations */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes slideInRight {
+  from {
+    opacity: 0;
+    transform: translateX(-30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes pulse-soft {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.7;
+  }
+}
+
+.animate-fade-in-up {
+  animation: fadeInUp 0.6s ease-out;
+}
+
+.animate-slide-in-right {
+  animation: slideInRight 0.6s ease-out;
+}
+
+.animate-pulse-soft {
+  animation: pulse-soft 2s ease-in-out infinite;
+}

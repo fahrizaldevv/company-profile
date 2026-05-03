@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "name": "Admin PUPR",
+    "company": "PUPR",
+    "feedback": "“Aplikasi ini sangat mudah digunakan! Desainnya intuitif dan semua fitur tersedia dengan jelas.",
+    "avatar": "👨‍💼",
+    "rating": 5
+  },
+  {
+    "id": "2",
+    "name": "Admin EPATOBIN",
+    "company": "DISPERINDAG PAMEKASAN",
+    "feedback": "“Saya sangat puas dengan performa aplikasi ini. Responsif dan cepat, bahkan ketika saya membuka banyak fitur sekaligus",
+    "avatar": "👩‍💼",
+    "rating": 5
+  }
+]
