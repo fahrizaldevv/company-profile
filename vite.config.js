@@ -12,4 +12,5 @@ export default defineConfig({
     sourcemap: false,
     minify: "terser",
   },
+  base: "/company-profile/",
 });
